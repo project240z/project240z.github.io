@@ -5,6 +5,5 @@ permalink: /about
 comments: false
 redirect_from: 
   - "/About"
-  - "/Results"
 ---
 
