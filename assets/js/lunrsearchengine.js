@@ -31,16 +31,11 @@ var documents = [{
     "body": ""
     }, {
     "id": 6,
-    "url": "/Results",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 7,
     "url": "/redirects.json",
     "title": "",
-    "body": "{“/About”:”/about”,”/Results”:”/about”} "
+    "body": "{“/About”:”/about”} "
     }, {
-    "id": 8,
+    "id": 7,
     "url": "/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
