@@ -5,7 +5,6 @@
   <link rel="canonical" href="/this-240z-gets-around">
   <script>location="/this-240z-gets-around"</script>
   <meta http-equiv="refresh" content="0; url=/this-240z-gets-around">
-  <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
   <a href="/this-240z-gets-around">Click here if you are not redirected.</a>
 </html>

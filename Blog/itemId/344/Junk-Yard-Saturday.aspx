@@ -5,7 +5,6 @@
   <link rel="canonical" href="/junk-yard-saturday">
   <script>location="/junk-yard-saturday"</script>
   <meta http-equiv="refresh" content="0; url=/junk-yard-saturday">
-  <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
   <a href="/junk-yard-saturday">Click here if you are not redirected.</a>
 </html>

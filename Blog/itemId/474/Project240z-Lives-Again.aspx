@@ -5,7 +5,6 @@
   <link rel="canonical" href="/project240z-lives-again">
   <script>location="/project240z-lives-again"</script>
   <meta http-equiv="refresh" content="0; url=/project240z-lives-again">
-  <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
   <a href="/project240z-lives-again">Click here if you are not redirected.</a>
 </html>

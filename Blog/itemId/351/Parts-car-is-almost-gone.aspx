@@ -5,7 +5,6 @@
   <link rel="canonical" href="/parts-car-is-almost-gone">
   <script>location="/parts-car-is-almost-gone"</script>
   <meta http-equiv="refresh" content="0; url=/parts-car-is-almost-gone">
-  <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
   <a href="/parts-car-is-almost-gone">Click here if you are not redirected.</a>
 </html>

@@ -5,7 +5,6 @@
   <link rel="canonical" href="/today-was-a-good-day">
   <script>location="/today-was-a-good-day"</script>
   <meta http-equiv="refresh" content="0; url=/today-was-a-good-day">
-  <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
   <a href="/today-was-a-good-day">Click here if you are not redirected.</a>
 </html>

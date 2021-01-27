@@ -5,7 +5,6 @@
   <link rel="canonical" href="/created-a-videos-section">
   <script>location="/created-a-videos-section"</script>
   <meta http-equiv="refresh" content="0; url=/created-a-videos-section">
-  <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
   <a href="/created-a-videos-section">Click here if you are not redirected.</a>
 </html>
