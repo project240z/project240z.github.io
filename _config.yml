@@ -4,7 +4,7 @@ title: "Project240z.com - Datsun 240z"
 description: "A Datsun project originally prepped for autocross."
 logo: 'assets/images/logo.gif'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl: https://www.project240z.com
 google_analytics: 'G-PLZ9VV466J'
 disqus: Project240z
 mailchimp-list: 
