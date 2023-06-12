@@ -2,9 +2,9 @@
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="/https://www.project240z.com/anyone-dealt-with-the-z-store-before">
-  <script>location="/https://www.project240z.com/anyone-dealt-with-the-z-store-before"</script>
-  <meta http-equiv="refresh" content="0; url=/https://www.project240z.com/anyone-dealt-with-the-z-store-before">
+  <link rel="canonical" href="https://www.project240z.com/anyone-dealt-with-the-z-store-before">
+  <script>location="https://www.project240z.com/anyone-dealt-with-the-z-store-before"</script>
+  <meta http-equiv="refresh" content="0; url=https://www.project240z.com/anyone-dealt-with-the-z-store-before">
   <h1>Redirecting&hellip;</h1>
-  <a href="/https://www.project240z.com/anyone-dealt-with-the-z-store-before">Click here if you are not redirected.</a>
+  <a href="https://www.project240z.com/anyone-dealt-with-the-z-store-before">Click here if you are not redirected.</a>
 </html>

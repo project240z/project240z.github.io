@@ -2,9 +2,9 @@
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="/https://www.project240z.com/the-car-runs">
-  <script>location="/https://www.project240z.com/the-car-runs"</script>
-  <meta http-equiv="refresh" content="0; url=/https://www.project240z.com/the-car-runs">
+  <link rel="canonical" href="https://www.project240z.com/the-car-runs">
+  <script>location="https://www.project240z.com/the-car-runs"</script>
+  <meta http-equiv="refresh" content="0; url=https://www.project240z.com/the-car-runs">
   <h1>Redirecting&hellip;</h1>
-  <a href="/https://www.project240z.com/the-car-runs">Click here if you are not redirected.</a>
+  <a href="https://www.project240z.com/the-car-runs">Click here if you are not redirected.</a>
 </html>
