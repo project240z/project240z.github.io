@@ -2,9 +2,9 @@
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="/where-are-the-pictures">
-  <script>location="/where-are-the-pictures"</script>
-  <meta http-equiv="refresh" content="0; url=/where-are-the-pictures">
+  <link rel="canonical" href="/https://www.project240z.com/where-are-the-pictures">
+  <script>location="/https://www.project240z.com/where-are-the-pictures"</script>
+  <meta http-equiv="refresh" content="0; url=/https://www.project240z.com/where-are-the-pictures">
   <h1>Redirecting&hellip;</h1>
-  <a href="/where-are-the-pictures">Click here if you are not redirected.</a>
+  <a href="/https://www.project240z.com/where-are-the-pictures">Click here if you are not redirected.</a>
 </html>
