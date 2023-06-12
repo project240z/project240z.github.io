@@ -7,7 +7,7 @@ redirect_from:
   - "/About"
 ---
 
-Project240z.com was originally about a boy and his toy. Originally picked up from a friend in Farmington, Missouri on May 7th, 2006, the car spent almost 4 years with Chris Hammond. He got it running with a turbo motor from a 280z, and then blew that motor up on its first autocross run.
+Project240z.com was originally about a boy and his toy. Originally picked up from a friend in Farmington, Missouri on May 7th, 2006, the car spent almost 4 years with [Chris Hammond](https://www.chrishammond.com/). He got it running with a turbo motor from a 280z, and then blew that motor up on its first autocross run.
 
 Eventually Chris and his wife moved to Colorado, then on to California. The car was sold in Colorado.
 
