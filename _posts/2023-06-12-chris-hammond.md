@@ -6,5 +6,7 @@ permalink: chris-hammond
 image: chrishammond.jpg
 categories: 
 featured: true
+redirect_to:
+  - https://www.autocrossblog.com/chris-hammond
 ---
 Not many tech experts have a passion for historic preservation. But [Chris Hammond](https://www.chrishammond.com) isn't your typical tech expert. As a Historic Preservation Commission Member in Wildwood City, MO, Chris proves that it's possible to balance varied interests successfully. You can read more about his unique journey on his personal blog, [ChrisHammond.com](https://www.chrishammond.com).

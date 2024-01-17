@@ -9,5 +9,7 @@ featured: true
 redirect_from: 
     - "/Blog/itemId/579/Looking-for-another-240z"
     - "/Blog/itemId/579/Looking-for-another-240z.aspx"
+redirect_to:
+  - https://www.autocrossblog.com/looking-for-another-240z
 ---
 It has been a little while since we&#39;ve owned a Datsun 240z and we&#39;re somewhat ready for another! If you&#39;ve got an old Datsun in the St. Louis Area, or anywhere within a couple hour drive, hit us up, we&#39;re interested in talking to you about it.
