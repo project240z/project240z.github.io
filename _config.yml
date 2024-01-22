@@ -1,7 +1,7 @@
 # Site
 name: "Project240z.com"
 title: "Project240z.com - Datsun 240z"
-description: 'A Datsun project originally prepped for autocross.<a href="https://www.autocrossblog.com">MOVED TO AutocrossBlog.com</a>'
+description: 'A Datsun project originally prepped for autocross. <a href="https://www.autocrossblog.com">MOVED TO AutocrossBlog.com</a>'
 logo: 'assets/images/logo.gif'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
